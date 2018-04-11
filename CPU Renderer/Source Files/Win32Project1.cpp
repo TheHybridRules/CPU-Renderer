@@ -305,6 +305,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				angleY = 0;
 				angleZ = 0;
 				zoom = 7;
+				break;
 			default:
 				break;
 						
